@@ -1,0 +1,34 @@
+  .tempContainer {
+    display: flex;
+    padding: 1rem;
+    background-color:  #0e0864;
+  }
+
+  .box{
+    width: 25%;
+    height: 10rem;
+    /* border: 1px solid red; */
+    margin: 1rem;
+    color: #ffff;
+    word-wrap: break-word;
+    /* margin-bottom: 1rem; */
+  }
+
+  .Links, .contact {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Links a, .contact p {
+    margin-bottom: 5px;
+    color: #ffff;
+    text-decoration: none;
+  }
+
+  .sameRow{
+    display: flex;
+    flex-direction: row;
+  }
+  .sameRow span {
+    margin-left: 5px;
+  }

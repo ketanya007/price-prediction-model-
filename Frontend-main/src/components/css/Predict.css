@@ -1,0 +1,24 @@
+
+.Predict
+{
+    color: #0b055f;
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 2%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg1{
+    background-image: url('https://img.freepik.com/free-vector/house-with-solar-panels-roof-wind-turbines-night-eco-friendly-power-generation-green-energy-concept-cartoon-landscape-with-modern-cottage-windmills-moon-sky_107791-3834.jpg?w=996&t=st=1680600330~exp=1680600930~hmac=a1c5ba2bbf72176c6f5c62bf73e8597af6cedf52df0e58d45bd23bc3cde9b36c');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 3rem;
+    height: 49vh;
+    /* height: 100vh; */
+    /* opacity: 0.9; */
+}
